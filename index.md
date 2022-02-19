@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## ABHINAV VERMA
 
-You can use the [editor on GitHub](https://github.com/sinlord/sinlord.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Abhinav heads the Technology department at Bridgeweave. Abhinav comes with over 15+ years of experience in various domains such as FinTech, e-commerce, PropTech, Gaming and Logistics. Prior to joining Bridgeweave he was working at Architrave GmbH in Berlin, Germany where he was responsible for designing and developing multiple AI products in the Natural Language Processing area. Prior to that, he was heading the technical delivery for fintech conglomerate Aditya Birla Finance which uses AI to process SME and Personal Loans.
+Abhinav was the founding member of his startup named Superlorry. Being the CTO he was responsible for developing a scalable and robust platform for managing intercity logistics. Prior to this, he has worked as CTO for Tirendo GmbH based in Berlin, Germany operating in the e-commerce sector.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Abhinav has done his engineering in Computer Science from Visvesvaraya Technological University, India and MBA from HHL Leipzig Graduate School of Management, Germany. He has also done Postgraduate Diploma in Machine Learning and Artificial Intelligence from Columbia Engineering, USA.
 
 ### Markdown
 
