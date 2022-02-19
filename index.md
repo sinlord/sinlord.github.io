@@ -1,13 +1,19 @@
 ## ABHINAV VERMA
 
-Abhinav heads the Technology department at Bridgeweave. Abhinav comes with over 15+ years of experience in various domains such as FinTech, e-commerce, PropTech, Gaming and Logistics. Prior to joining Bridgeweave he was working at Architrave GmbH in Berlin, Germany where he was responsible for designing and developing multiple AI products in the Natural Language Processing area. Prior to that, he was heading the technical delivery for fintech conglomerate Aditya Birla Finance which uses AI to process SME and Personal Loans.
+Abhinav heads the Technology department at Bridgeweave. Abhinav comes with over 15+ years of experience in various domains such as FinTech, e-commerce, PropTech, Gaming and Logistics. Prior to joining Bridgeweave he was working at Architrave GmbH in Berlin, Germany where he was responsible for designing and developing multiple AI products in the Natural Language Processing field. Prior to that, he was heading the Technical Delivery for fintech conglomerate Aditya Birla Finance which uses AI to process SME and Personal Loans.
 Abhinav was the founding member of his startup named Superlorry. Being the CTO he was responsible for developing a scalable and robust platform for managing intercity logistics. Prior to this, he has worked as CTO for Tirendo GmbH based in Berlin, Germany operating in the e-commerce sector.
 
-Abhinav has done his engineering in Computer Science from Visvesvaraya Technological University, India and MBA from HHL Leipzig Graduate School of Management, Germany. He has also done Postgraduate Diploma in Machine Learning and Artificial Intelligence from Columbia Engineering, USA.
+Abhinav has done his Engineering in Computer Science from Visvesvaraya Technological University, India and MBA from HHL Leipzig Graduate School of Management, Germany. He has also done Postgraduate Diploma in Machine Learning and Artificial Intelligence from Columbia Engineering, USA.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+✦ POSTGRADUATE DIPLOMA IN MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE Columbia Engineering, USA (Remote)
+✦ MASTER OF BUSINESS ADMINISTRATION (MBA)
+  MAJOR: General Management
+  Handelshochschule Leipzig (HHL), Germany (Among Top 5 Business Schools in Germany)
+✦ BACHELOR OF ENGINEERING (B.E.) MAJOR: Computer Science Visvesvaraya Technological University, Belgaum, India
+
 
 ```markdown
 Syntax highlighted code block
@@ -32,7 +38,3 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sinlord/sinlord.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
