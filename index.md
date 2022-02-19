@@ -82,6 +82,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
     <li>Book Club</li>
   </ul>
 </div>
-<div class="right"></div>
-<div id="footer">
-  <h2 id="name">Emily</h2></div>
