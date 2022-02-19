@@ -85,5 +85,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 <div class="right"></div>
 <div id="footer">
   <h2 id="name">Emily</h2></div>
-![image](https://user-images.githubusercontent.com/4741645/154810165-b705b2fb-7902-4a8a-a9ee-f18944b7ae92.png)
-
