@@ -8,11 +8,11 @@ Abhinav has done his Engineering in Computer Science from Visvesvaraya Technolog
 ### Education
 
 
-✦ POSTGRADUATE DIPLOMA IN MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE Columbia Engineering, USA (Remote)
-✦ MASTER OF BUSINESS ADMINISTRATION (MBA)
+- ✦ POSTGRADUATE DIPLOMA IN MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE Columbia Engineering, USA (Remote)
+- ✦ MASTER OF BUSINESS ADMINISTRATION (MBA)
   MAJOR: General Management
   Handelshochschule Leipzig (HHL), Germany (Among Top 5 Business Schools in Germany)
-✦ BACHELOR OF ENGINEERING (B.E.) MAJOR: Computer Science Visvesvaraya Technological University, Belgaum, India
+- ✦ BACHELOR OF ENGINEERING (B.E.) MAJOR: Computer Science Visvesvaraya Technological University, Belgaum, India
 
 
 ```markdown
