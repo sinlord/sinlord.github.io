@@ -1328,9 +1328,9 @@ h4.modal-title {
 	}
 }
 
-@media(max-width:1024px){
+@media(max-width:1550px){
 	.w3-banner-text p {
-    width: 82%;
+    width: 80%;
 	}
 	.w3-edu-info1 h4 {
     letter-spacing: 1px;
